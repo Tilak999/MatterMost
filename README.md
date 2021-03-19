@@ -1,6 +1,8 @@
 # MatterMost
 A super minimal Todo app build using vanilla CSS and alpine.js
 
+App Link: [MatterMost](https://tilak999.github.io/MatterMost/)
+
 ![MatterMost App](https://github.com/Tilak999/MatterMost/blob/main/img/screenshot.png?raw=true)
 
 ## Tech Stack
